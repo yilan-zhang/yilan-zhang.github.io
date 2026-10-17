@@ -6,6 +6,7 @@ A small, static portfolio for interviewers and collaborators. Published with Git
 
 - `index.html` and `styles.css`: the site; no build step or framework.
 - `assets/scenetrace-preview.jpg`: output image from the public [SceneTrace repository](https://github.com/yilan-zhang/scenetrace), whose example video and provenance are documented there.
+- `assets/v2v-concept.svg`: original conceptual illustration for this site; it contains no research data or company assets.
 - `assets/iris-detail.png`: crop of a screenshot from the public [IRIS Motion Studio repository](https://github.com/yilan-zhang/iris-camera-lab).
 - `assets/nfc-keychains.png`: crop of Yilan's No-Worries portfolio, showing her physical keychain designs.
 
