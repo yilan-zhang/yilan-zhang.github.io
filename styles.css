@@ -75,7 +75,7 @@ h1 em, .about-band h2 em, .contact h2 em { font-style: normal; color: var(--blue
 .project-image { position: relative; aspect-ratio: 1.38; overflow: hidden; border-radius: 3px; background: #dedfdc; }
 .project-image img { width: 100%; height: 100%; object-fit: cover; transition: transform .5s ease; }
 .project:hover .project-image img { transform: scale(1.025); }
-.image-v2v { background: #cbd7ef; }
+.image-v2v { aspect-ratio: 1.64; background: #152126; }
 .image-v2v img { object-position: center; }
 .image-scene { background: #151a1c; }
 .image-scene img { object-position: center; }
@@ -151,6 +151,7 @@ h1 em, .about-band h2 em, .contact h2 em { font-style: normal; color: var(--blue
   .project { grid-template-columns: 1fr; gap: 26px; padding-block: 33px 47px; }
   .project-iris .project-image, .project-iris .project-copy { order: initial; }
   .project-image { aspect-ratio: 1.4; }
+  .image-v2v { aspect-ratio: 1.52; }
   .project h3 { margin-top: 23px; }
   .about-band { padding-block: 77px 85px; }
   .about-grid { grid-template-columns: 1fr; gap: 10px; }
